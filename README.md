@@ -2,13 +2,13 @@
   <img src="./PathFinding-BFS/assets/image.png" alt="Path Finder" width="100%">
 </p>
 
-# 🚀 PathFinder-BFS
+# PathFinder-BFS
 
-A simple web-based pathfinding visualizer that demonstrates how the **Breadth-First Search (BFS)** algorithm finds the shortest path between two locations on a map.
+A simple web-based pathfinding visualizer that demonstrates how the Breadth-First Search (BFS) algorithm finds the shortest path between two locations on a map.
 
 ---
 
-## 📸 Preview
+## Preview
 
 <p align="center">
   <img src="preview.png" alt="PathFinder Preview" width="900">
@@ -16,17 +16,17 @@ A simple web-based pathfinding visualizer that demonstrates how the **Breadth-Fi
 
 ---
 
-## ✨ Features
+## Features
 
-- 📍 Interactive map
-- 🛣️ Shortest path visualization
-- ⚡ Breadth-First Search (BFS) Algorithm
-- 🎯 Fast and simple interface
-- 📱 Responsive design
+- Interactive map
+- Shortest path visualization
+- Breadth-First Search (BFS) algorithm
+- Fast and simple interface
+- Responsive design
 
 ---
 
-## 🛠️ Built With
+## Built With
 
 - HTML5
 - CSS3
@@ -34,7 +34,7 @@ A simple web-based pathfinding visualizer that demonstrates how the **Breadth-Fi
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 PathFinder-BFS/
@@ -49,7 +49,7 @@ PathFinder-BFS/
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Clone the repository
 
@@ -59,49 +59,49 @@ git clone https://github.com/juliancagadas/PathFinder-BFS.git
 
 ### Open the project
 
-Simply open **index.html** in your browser.
+Open `index.html` in your preferred web browser.
 
 ---
 
-## 📖 How It Works
+## How It Works
 
 1. Select a starting location.
 2. Select a destination.
-3. The application applies the **Breadth-First Search (BFS)** algorithm.
+3. The application applies the Breadth-First Search (BFS) algorithm.
 4. The shortest available route is displayed on the map.
 
 ---
 
-## 🧠 About Breadth-First Search
+## About Breadth-First Search
 
 Breadth-First Search (BFS) is a graph traversal algorithm that explores neighboring nodes level by level. It guarantees the shortest path in an unweighted graph.
 
 ---
 
-## 📸 Algorithm Flow
+## Algorithm Flow
 
-```
+```text
 Start
-   │
+  │
 Visit Start Node
-   │
+  │
 Add Neighbors to Queue
-   │
+  │
 Visit Next Node
-   │
+  │
 Destination Found?
- ├── No → Continue
- └── Yes → Display Shortest Path
+├── No  → Continue
+└── Yes → Display Shortest Path
 ```
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 **Julian Nathaniel Cagadas**
 
 ---
 
-## 📄 License
+## License
 
 This project is for educational purposes.
