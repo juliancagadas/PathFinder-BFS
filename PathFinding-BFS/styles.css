@@ -1,3 +1,18 @@
 .map-container {
   position: relative;
 }
+
+.grid {
+  position: absolute;
+  top: 0;
+  left: 0;
+
+  height: 100%;
+  width: 100%;
+}
+
+.cell {
+  height: 20px;
+  width: 20px;
+  border: 1px solid black;
+}
