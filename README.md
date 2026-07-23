@@ -9,9 +9,6 @@ A simple web-based pathfinding visualizer that demonstrates how the Breadth-Firs
 
 ---
 
-
----
-
 ## Features
 
 - Interactive map
