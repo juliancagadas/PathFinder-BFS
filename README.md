@@ -1,3 +1,4 @@
+## Preview
 <p align="center">
   <img src="./PathFinding-BFS/assets/image.png" alt="Path Finder" width="100%">
 </p>
@@ -8,11 +9,6 @@ A simple web-based pathfinding visualizer that demonstrates how the Breadth-Firs
 
 ---
 
-## Preview
-
-<p align="center">
-  <img src="preview.png" alt="PathFinder Preview" width="900">
-</p>
 
 ---
 
